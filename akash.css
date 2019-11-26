@@ -1,0 +1,39 @@
+body {
+	margin:auto;
+	width:300px;
+}
+b {
+	font-family: arial;
+	color: #0e7306;
+	font-size: 20px;
+}
+ .results { 
+ font-weight: bold;
+ font-family:arial;
+ font-size:18px;
+ color:blue;
+}
+textarea {
+	width: 263px;
+	height: 122px;
+	display: block;
+	font-family: arial;
+	font-size: 19px;
+	border-radius: 2px;
+	border: #034f16 1px solid;
+	text-indent: 10px;
+}
+textarea:focus {
+ outline: none;
+ border:green 1px solid;
+}
+input[type="button"] {
+	padding: 9px;
+	background: #0b8484;
+	border: #0f593e 1px solid;
+	cursor: pointer;
+	border-radius: 10px;
+	font-family: arial;
+	font-size: 18px;
+	color: white;
+}
